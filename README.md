@@ -38,6 +38,26 @@ Stage 14: 14_visualize_atom_features.py - 6 atom-feature figures
 grid_search.py - 20 SAE configurations evaluation
 grid_visualize.py - 7 grid search figures
 
+
+Stage 15: 15_rigorous_taxonomy.py - Rigorous atom taxonomy (Mann-Whitney + BH correction + effect size)
+Stage 16: 16_visualize_taxonomy.py - 5 taxonomy figures
+
+## Atom taxonomy (Stage 15-16)
+
+Each atom is classified using enrichment significance testing rather than a fixed threshold:
+
+- Test: one-sided Mann-Whitney U (atom higher on concept-positive ECGs)
+- Correction: Benjamini-Hochberg FDR (q < 0.05) across all atom-concept pairs
+- Effect-size gate: AUROC > 0.60 (essential at N=800k, where significance alone flags trivial AUROC ~0.51 differences)
+
+Concept inventory (three sources): 5 ICD phenotypes, 8 numerical ECG features (tachycardia, bradycardia, wide_qrs, long_qt, left/right axis, ST elevation/depression), and high-frequency machine-report phrases.
+
+Categories:
+- Separable: enriched for exactly one concept (monosemantic)
+- Entangled: enriched for two or more concepts (polysemantic)
+- Uninformative: fires but no enriched concept (outside concept inventory)
+- Dead: never fires
+
 ## Setup
 
     git clone https://github.com/JayDuan123/cardiac-sae.git
