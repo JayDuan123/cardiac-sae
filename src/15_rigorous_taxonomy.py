@@ -43,7 +43,7 @@ out_dir = sae_dir / "taxonomy"
 out_dir.mkdir(parents=True, exist_ok=True)
 
 Q_THRESHOLD = 0.05          # BH-corrected significance
-MIN_EFFECT = 0.60           # minimum AUROC effect size (large N makes
+MIN_EFFECT = 0.70  # raised from 0.60 — see Stage 20 stratified test           # minimum AUROC effect size (large N makes
                             # trivial differences statistically significant)
 SENTINEL_MAX = 1000         # values beyond physiological range are device sentinels
 MIN_POS = 30                # minimum concept-positive samples to test

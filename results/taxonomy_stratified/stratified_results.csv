@@ -1,0 +1,98 @@
+atom_id,concept,global_auroc,stratifiable,bin_aurocs,median_bin_auroc,verdict
+1,TXT:RBBB and LAFB,0.7840277072699494,True,0.93;0.84;0.73;0.65;0.51,0.732845664024353,confirmed
+65,TXT:Atrial flutter with uncontrolled ventric,0.8103293187294989,False,0.70,,too_few_bins
+77,TXT:Sinus rhythm with bigeminal PVCs,0.7269169101736636,True,0.65;0.77;0.72;0.60,0.6830831170082092,confirmed
+101,TXT:Probable sinus tachycardia,0.7235429083670899,False,0.66,,too_few_bins
+118,TXT:Extensive infarct - age undetermined,0.7738080070350973,True,0.69;0.81;0.78;0.67;0.71,0.7108105421066284,confirmed
+131,TXT:Sinus rhythm with bigeminal PVCs,0.8313434033436699,True,0.65;0.84;0.91;0.80,0.8216277360916138,confirmed
+145,"TXT:Extreme tachycardia with wide complex, n",0.706453032320164,False,0.66,,too_few_bins
+226,"TXT:Extreme tachycardia with wide complex, n",0.7737989072736218,False,0.71,,too_few_bins
+231,"TXT:ST elev, probable normal early repol pat",0.8408954069789114,True,0.86;0.87;0.82;0.69;0.51,0.8223893642425537,confirmed
+239,TXT:Incomplete RBBB,0.8076982928592382,True,0.85;0.84;0.80;0.76;0.65,0.797918975353241,confirmed
+243,TXT:Probable sinus tachycardia,0.7021168324457984,False,0.61,,too_few_bins
+248,TXT:Incomplete RBBB,0.9354452995039058,True,0.96;0.95;0.94;0.92;0.88,0.9434278011322021,confirmed
+252,TXT:Probable sinus tachycardia,0.7038428054826014,False,0.59,,too_few_bins
+265,TXT:Sinus rhythm with bigeminal PVCs,0.7158150851792532,True,0.55;0.71;0.80;0.70,0.7053275108337402,confirmed
+274,TXT:Atrial flutter with rapid ventricular re,0.7193295254101311,True,0.58;0.54,0.5573214292526245,HR-confounded
+327,TXT:Marked sinus bradycardia,0.8316351899125863,False,0.83,,too_few_bins
+347,TXT:Marked sinus bradycardia,0.9547816579298462,False,0.95,,too_few_bins
+361,TXT:Atrial fibrillation with slow ventricula,0.7273348463738233,True,0.69;0.66,0.6780948042869568,confirmed
+388,"TXT:ST elev, probable normal early repol pat",0.7010026037689477,True,0.54;0.66;0.87;0.84;0.53,0.6592468619346619,confirmed
+396,NUM:bradycardia,0.7115473884517863,False,,,too_few_bins
+403,TXT:Sinus rhythm with bigeminal PVCs,0.974533385886294,True,0.98;0.99;0.99;0.94,0.981520414352417,confirmed
+431,TXT:Atrial flutter with rapid ventricular re,0.702148849875576,True,0.54;0.64,0.5902345180511475,HR-confounded
+441,TXT:Marked sinus bradycardia,0.7278807301144825,False,0.72,,too_few_bins
+443,"TXT:ST elev, probable normal early repol pat",0.719949023480718,True,0.59;0.71;0.83;0.83;0.55,0.7084486484527588,confirmed
+445,TXT:Marked sinus bradycardia,0.760748242050601,False,0.73,,too_few_bins
+471,TXT:Atrial flutter with rapid ventricular re,0.7276048321163194,True,0.62;0.66,0.6405807733535767,HR-confounded
+475,TXT:Severe right axis deviation,0.7267918481115947,True,0.75;0.78;0.69;0.69;0.71,0.7074266672134399,confirmed
+476,TXT:Probable junctional rhythm,0.7065330191450271,False,0.68,,too_few_bins
+486,TXT:Anterolateral ST-T changes may be due to,0.7015914210468757,True,0.69;0.68;0.60;0.53;0.51,0.6030823588371277,HR-confounded
+488,"TXT:Abnormal R-wave progression, early trans",0.7332525835455893,True,0.73;0.75;0.73;0.64;0.64,0.7305067181587219,confirmed
+504,TXT:Marked sinus bradycardia,0.7375907743711947,False,0.74,,too_few_bins
+523,TXT:Possible extensive infarct - age undeter,0.7032872042034695,True,0.67;0.68;0.73;0.73;0.73,0.728159487247467,confirmed
+543,TXT:Sinus rhythm with bigeminal PVCs,0.8831255024863711,True,0.83;0.92;0.90;0.76,0.8640156984329224,confirmed
+544,TXT:Atrial flutter with uncontrolled ventric,0.7132522622858013,False,0.56,,too_few_bins
+545,TXT:Atrial flutter with uncontrolled ventric,0.7051121110995803,False,0.65,,too_few_bins
+555,TXT:Atrial flutter with 4:1 A-V block,0.858248671241813,True,0.89;0.74,0.8133344650268555,confirmed
+563,TXT:Probable sinus tachycardia,0.8513173015103517,False,0.78,,too_few_bins
+651,TXT:Probable sinus tachycardia,0.9185990007127748,False,0.87,,too_few_bins
+690,"TXT:ST elev, probable normal early repol pat",0.7145505314328047,True,0.70;0.75;0.71;0.54;0.52,0.7014570832252502,confirmed
+697,"TXT:Abnormal R-wave progression, early trans",0.715425728519442,True,0.70;0.73;0.73;0.63;0.60,0.6965360641479492,confirmed
+705,TXT:Marked sinus bradycardia,0.7710754452748498,False,0.77,,too_few_bins
+717,TXT:Marked sinus bradycardia,0.715150299205534,False,0.70,,too_few_bins
+728,TXT:Anterolateral infarct - age undetermined,0.7062634483815786,True,0.78;0.75;0.71;0.68;0.59,0.709259569644928,confirmed
+740,TXT:Accelerated idioventricular rhythm,0.7220174266095021,True,0.73;0.73;0.66,0.7312201857566833,confirmed
+743,"TXT:ST elev, probable normal early repol pat",0.8037507006992324,True,0.74;0.84;0.84;0.63;0.52,0.7385069727897644,confirmed
+747,TXT:Sinus rhythm with bigeminal PVCs,0.8782661990557534,True,0.78;0.89;0.92;0.78,0.8382483720779419,confirmed
+750,TXT:Probable supraventricular tachycardia,0.7279666401098436,False,0.67,,too_few_bins
+751,TXT:Atrial flutter with 4:1 A-V block,0.7094230631254229,True,0.75;0.56,0.6533216238021851,confirmed
+761,TXT:Atrial-sensed ventricular-paced rhythm,0.7010548922400995,True,0.76;0.64,0.6988690495491028,confirmed
+781,TXT:Marked sinus bradycardia,0.9729454907783002,False,0.96,,too_few_bins
+824,TXT:Probable supraventricular tachycardia,0.7684984804492543,False,0.76,,too_few_bins
+827,"TXT:Abnormal R-wave progression, early trans",0.8641892826920093,True,0.84;0.90;0.87;0.75;0.66,0.8372476100921631,confirmed
+828,TXT:Anterolateral infarct - age undetermined,0.7322255099821963,True,0.67;0.76;0.74;0.75;0.75,0.7529338598251343,confirmed
+830,TXT:Atrial flutter with rapid ventricular re,0.754431602995733,True,0.55;0.62,0.5858557224273682,HR-confounded
+833,TXT:Sinus rhythm with bigeminal PVCs,0.7203512111260749,True,0.53;0.71;0.81;0.72,0.7141320705413818,confirmed
+862,TXT:Atrial flutter with rapid ventricular re,0.7064413144476341,True,0.51;0.65,0.5816900730133057,HR-confounded
+899,TXT:Atrial flutter with 4:1 A-V block,0.7157508653553871,True,0.73;0.60,0.666246771812439,confirmed
+915,TXT:Atrial-sensed ventricular-paced rhythm,0.72649337698035,True,0.77;0.66,0.7197416424751282,confirmed
+931,TXT:Marked sinus bradycardia,0.9183478811209436,False,0.91,,too_few_bins
+944,TXT:Anterolateral infarct - age undetermined,0.7173292451293829,True,0.76;0.75;0.71;0.68;0.64,0.7102985382080078,confirmed
+947,TXT:Sinus rhythm with bigeminal PVCs,0.7534408232861597,True,0.63;0.83;0.71;0.55,0.6696586608886719,confirmed
+976,TXT:Marked sinus bradycardia,0.9763641316040536,False,0.97,,too_few_bins
+988,TXT:Incomplete RBBB,0.7674853094175571,True,0.90;0.85;0.73;0.58;0.53,0.7256606817245483,confirmed
+994,TXT:Marked sinus bradycardia,0.8519572903786732,False,0.84,,too_few_bins
+1006,TXT:Atrial flutter with 4:1 A-V block,0.8332570844214375,True,0.88;0.67,0.7723422050476074,confirmed
+1010,TXT:Sinus rhythm with bigeminal PVCs,0.8267390493259609,True,0.71;0.83;0.91;0.75,0.7915997505187988,confirmed
+1030,TXT:Atrial-sensed ventricular-paced rhythm,0.7036675350130364,True,0.77;0.64,0.7061046361923218,confirmed
+1050,TXT:Sinus rhythm with bigeminal PVCs,0.8288406280970202,True,0.71;0.83;0.89;0.81,0.8196242451667786,confirmed
+1059,"TXT:Extreme tachycardia with wide complex, n",0.729346962501038,False,0.67,,too_few_bins
+1124,TXT:RBBB and LAFB,0.7621113382570018,True,0.67;0.79;0.82;0.76;0.65,0.759198009967804,confirmed
+1132,"TXT:ST elev, probable normal early repol pat",0.7131066720178475,True,0.82;0.75;0.64;0.51;0.49,0.635263979434967,HR-confounded
+1152,TXT:Sinus rhythm with bigeminal PVCs,0.7323365318180766,True,0.74;0.75;0.78;0.63,0.7458482980728149,confirmed
+1155,TXT:Marked sinus bradycardia,0.8702003690575864,False,0.85,,too_few_bins
+1167,TXT:Sinus rhythm with bigeminal PVCs,0.8087828087580038,True,0.76;0.84;0.82;0.71,0.7879540324211121,confirmed
+1169,TXT:Anterolateral infarct - age undetermined,0.7238472972510192,True,0.84;0.75;0.70;0.64;0.58,0.6987065076828003,confirmed
+1185,TXT:Probable supraventricular tachycardia,0.7557020760332339,False,0.70,,too_few_bins
+1195,TXT:Marked sinus bradycardia,0.9599457995476296,False,0.94,,too_few_bins
+1198,TXT:Marked sinus bradycardia,0.9646064533890972,False,0.93,,too_few_bins
+1220,TXT:Atrial-sensed ventricular-paced rhythm,0.8084575395817861,True,0.87;0.74,0.8026934862136841,confirmed
+1223,TXT:RBBB and LAFB,0.7537956873238297,True,0.67;0.81;0.77;0.69;0.65,0.6919911503791809,confirmed
+1243,TXT:Marked sinus bradycardia,0.8691231927692837,False,0.85,,too_few_bins
+1244,TXT:Marked sinus bradycardia,0.8398943064642563,False,0.81,,too_few_bins
+1311,TXT:Atrial flutter with uncontrolled ventric,0.7248095329575047,False,0.60,,too_few_bins
+1321,TXT:Probable junctional rhythm,0.814122983002342,False,0.75,,too_few_bins
+1344,TXT:Probable supraventricular tachycardia,0.7366365953022675,False,0.61,,too_few_bins
+1350,TXT:RBBB and LAFB,0.7460242488799774,True,0.87;0.78;0.72;0.64;0.59,0.7189900279045105,confirmed
+1367,TXT:Probable supraventricular tachycardia,0.713895973129984,False,0.63,,too_few_bins
+1378,TXT:RBBB and LAFB,0.8416678224036145,True,0.89;0.87;0.84;0.78;0.67,0.8401194214820862,confirmed
+1381,TXT:Sinus rhythm with bigeminal PVCs,0.7079938354396076,True,0.58;0.73;0.76;0.64,0.6858201026916504,confirmed
+1392,TXT:Incomplete RBBB,0.7236926008708017,True,0.88;0.81;0.66;0.55;0.52,0.6596031785011292,confirmed
+1395,"TXT:ST elev, probable normal early repol pat",0.7245585751223773,True,0.75;0.76;0.68;0.54;0.50,0.682693600654602,confirmed
+1419,TXT:Atrial fibrillation with slow ventricula,0.7347220203425493,True,0.75;0.71,0.7272084951400757,confirmed
+1449,TXT:RBBB and LAFB,0.7359794053941758,True,0.77;0.82;0.69;0.62;0.54,0.6883549690246582,confirmed
+1508,TXT:Marked sinus bradycardia,0.7037766325148385,False,0.69,,too_few_bins
+1513,TXT:A-V sequential pacemaker,0.7263225041267435,True,0.72;0.73;0.70;0.62,0.709892749786377,confirmed
+1523,TXT:Probable sinus tachycardia,0.7024854771077568,False,0.70,,too_few_bins
+1526,TXT:Sinus rhythm with bigeminal PVCs,0.7332269659635547,True,0.57;0.71;0.84;0.71,0.7138118147850037,confirmed
